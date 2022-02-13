@@ -2,6 +2,7 @@ footer{
     background-color: #24262ef3; /*opacity check*/
     color: white;
     line-height: 1.8rem;
+    margin-top: 3em;
 }
 * {
     box-sizing: border-box;
