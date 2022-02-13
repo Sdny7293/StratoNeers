@@ -4,6 +4,8 @@
 <head>
     <!-- Footer css -->
     <link rel="stylesheet" href="css/footer.css" />
+    <!-- Social media icon font library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -14,24 +16,22 @@
             <div class="ft-main-item">
                 <h2 class = "logo-title">StratoNeers</h2>
                 <ul class = "social-list">
-                    <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                    <li><a href="#"><i class="fab fa-github"></i></a></li>
-                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                    <li><a href="#" class="fa fa-facebook"></a></li>
+                    <li><a href="#" class="fa fa-instagram"></a></li>
+                    <li><a href="#" class="fa fa-youtube"></a></li>
                 </ul>
             </div>
             <div class="ft-main-item">
                 <h2 class="ft-title">Contact</h2>
                 <ul class = "ft-list">
-                    <li><a href="#">stratoneers@gmail.com</a></li>
-                    <li><a href="#">123-456-7890</a></li>
+                    <li><a class = "email" href="#">stratoneers@gmail.com</a></li>
+                    <li><a class = "phone" href="#">123-456-7890</a></li>
                     <li>CANADA, BC</li>
                 </ul>
             </div>
             <div class="ft-main-item">
                 <h2 class="ft-title">Stay Updated</h2>
-                <p>Subscribe to our newsletter to get our latest news.</p>
+                <p class = "sub-text">Subscribe to our newsletter to get our latest news.</p>
                 <form>
                     <input type="email" name="email" placeholder="Enter email address">
                     <input type="submit" value="Subscribe">
