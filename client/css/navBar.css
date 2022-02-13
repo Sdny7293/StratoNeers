@@ -1,0 +1,27 @@
+/* Nav bar */
+ul img{
+    float: left;
+    width: 7em;
+}
+ul li{
+    display: inline-block;
+    list-style-type: none;
+    width: 10em;
+}
+.topnav{
+    text-align: center;
+}
+.centerNav{
+    float: left;
+}
+.rightNav{
+    float: right;
+    display: inline-block;
+}
+li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.2em;
+}
