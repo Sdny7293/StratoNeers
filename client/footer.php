@@ -12,30 +12,21 @@
         <!-- Footer main -->
         <section class="ft-main">
             <div class="ft-main-item">
-                <h2 class="ft-title">About</h2>
-                <ul>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Portfolio</a></li>
-                    <li><a href="#">Pricing</a></li>
-                    <li><a href="#">Customers</a></li>
-                    <li><a href="#">Careers</a></li>
-                </ul>
-            </div>
-            <div class="ft-main-item">
-                <h2 class="ft-title">Resources</h2>
-                <ul>
-                    <li><a href="#">Docs</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">eBooks</a></li>
-                    <li><a href="#">Webinars</a></li>
+                <h2 class = "logo-title">StratoNeers</h2>
+                <ul class = "social-list">
+                    <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#"><i class="fab fa-github"></i></a></li>
+                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                 </ul>
             </div>
             <div class="ft-main-item">
                 <h2 class="ft-title">Contact</h2>
-                <ul>
-                    <li><a href="#">Help</a></li>
-                    <li><a href="#">Sales</a></li>
-                    <li><a href="#">Advertise</a></li>
+                <ul class = "ft-list">
+                    <li><a href="#">stratoneers@gmail.com</a></li>
+                    <li><a href="#">123-456-7890</a></li>
+                    <li>CANADA, BC</li>
                 </ul>
             </div>
             <div class="ft-main-item">
@@ -47,16 +38,11 @@
                 </form>
             </div>
         </section>
-        <!-- <div class="footer">
-            <div class="col-left">
-                <h2>StratoNeers</h2>
-                <p>Social media</p>
-            </div>
-            <div class="col-right">
-                <h2>Contact Us</h2>
-                <p>randomemail@example.com</p>
-            </div>
-        </div> -->
+        <section class="ft-legal">
+        <ul class="ft-legal-list">
+          <li>&copy; 2022 Copyright StratoNeers | Developed by Sydney Fang</li>
+        </ul>
+      </section>
         <!-- <p class="author">Copyright &copy; StratoNeers | Developed by Sydney Fang</p> -->
     </footer>
 </body>
