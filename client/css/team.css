@@ -1,0 +1,68 @@
+#main-title{
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    font-family: 'Arvo', serif;
+    margin: 1em 0em;
+}
+#title-desc{
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* Display the columns below each other instead of side by side on small screens */
+@media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+}
+body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.team-con{
+    margin: auto;
+    width: 80%;
+    background-color: rgba(255, 255, 255, 0.644);
+    border-radius: 1.2em;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 3em;
+    padding: 2em 0em 0em 0em;
+}
+/* .team{ */
+    /* font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; */
+/* } */
+.member{
+    width: 30%;
+    margin: 0em 0em 2em 0em;
+    padding: 0.7em ;
+}
+.member-info{
+    background-color: white;
+    margin: 0;
+    padding: 1em;
+    border-radius: 0 0 1em 1em;
+}
+.img{
+    display: block;
+    border-radius: 1em 1em 0em 0em;
+}
+.name{
+
+}
+.bio{
+}
+.sydney-img{
+    width: 100%; /* or any custom size */
+    height: 90%; 
+    object-fit: contain;
+}

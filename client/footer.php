@@ -43,7 +43,6 @@
           <li>&copy; 2022 Copyright StratoNeers | Developed by Sydney Fang</li>
         </ul>
       </section>
-        <!-- <p class="author">Copyright &copy; StratoNeers | Developed by Sydney Fang</p> -->
     </footer>
 </body>
 

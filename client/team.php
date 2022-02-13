@@ -26,15 +26,52 @@ session_start();
         </nav>
         <br><br><br>
         <h1 id = "main-title">Meet the Team</h1>
-        <p id="title-desc">CAN-SBX 2022</p>
-        <br><br><br><br><br><br>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
+        <div class = "team-con">
+            <!-- <div class = "team"> -->
+                <div class = "member">
+                    <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
+                    <div class = "member-info">
+                        <h2 class = "name">Sydney Fang</h2>
+                        <p class = "bio">My bio here</p>
+                    </div>
+                </div>
+                <div class = "member">
+                    <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
+                    <div class = "member-info">
+                        <h2 class = "name">Sydney Fang</h2>
+                        <p class = "bio">My bio here</p>
+                    </div>
+                </div>
+                <div class = "member">
+                    <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
+                    <div class = "member-info">
+                        <h2 class = "name">Sydney Fang</h2>
+                        <p class = "bio">My bio here</p>
+                    </div>
+                </div>
+                <div class = "member">
+                    <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
+                    <div class = "member-info">
+                        <h2 class = "name">Sydney Fang</h2>
+                        <p class = "bio">My bio here</p>
+                    </div>
+                </div>
+                <div class = "member">
+                    <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
+                    <div class = "member-info">
+                        <h2 class = "name">Sydney Fang</h2>
+                        <p class = "bio">My bio here</p>
+                    </div>
+                </div>
+                <div class = "member">
+                    <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
+                    <div class = "member-info">
+                        <h2 class = "name">Sydney Fang</h2>
+                        <p class = "bio">My bio here</p>
+                    </div>
+                </div>                
+            <!-- </div> -->
+        </div>
     </header>
 </body>
 <?php include 'footer.php'?>
