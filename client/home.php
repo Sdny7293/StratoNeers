@@ -34,14 +34,14 @@ session_start();
         <br><br><br>
         <h1 id = "main-title">StratoNeers</h1>
         <p id="title-desc">CAN-SBX 2022</p>
-        <br><br><br><br><br><br>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
-        <h2 id="key-features">PH</h2>
+        <br><br><br>
+        <div class = "info-block">
+            <div class = "content">
+                <h2 class = "block-title">Place holder</h2>
+                <p class = "block-text">This is some text</p>
+                <p class = "block-text">This is some more text</p>
+            </div>
+        </div>
     </header>
 </body>
 <?php include 'footer.php'?>
