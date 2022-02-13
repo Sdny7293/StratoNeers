@@ -16,6 +16,7 @@ session_start();
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>Home</title>
     <link rel="stylesheet" href="./css/home.css"/>
+    <link rel="stylesheet" href="./css/theme.css"/>
     <!-- Nav bar css-->
     <link rel="stylesheet" href="./css/navBar.css"/>
     <!-- Nav bar arrow font -->
@@ -34,6 +35,12 @@ session_start();
         <h1 id = "main-title">StratoNeers</h1>
         <p id="title-desc">CAN-SBX 2022</p>
         <br><br><br><br><br><br>
+        <h2 id="key-features">PH</h2>
+        <h2 id="key-features">PH</h2>
+        <h2 id="key-features">PH</h2>
+        <h2 id="key-features">PH</h2>
+        <h2 id="key-features">PH</h2>
+        <h2 id="key-features">PH</h2>
         <h2 id="key-features">PH</h2>
     </header>
 </body>
