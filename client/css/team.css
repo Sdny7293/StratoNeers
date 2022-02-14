@@ -56,18 +56,17 @@ body{
     margin: 0;
     padding: 1em;
     border-radius: 0 0 1em 1em;
+    line-height: 1.3;
 }
 .img{
     display: block;
     border-radius: 1em 1em 0em 0em;
 }
-.name{
-
+.dept{
+    background-color: rgb(255, 255, 182);
+    border-radius: 0.3em;
+    margin-bottom: 1em;
 }
 .bio{
-}
-.sydney-img{
-    width: 100%; /* or any custom size */
-    height: 90%; 
-    object-fit: contain;
+    margin-top: 0.6em;
 }

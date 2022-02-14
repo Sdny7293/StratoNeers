@@ -31,7 +31,8 @@
             </div>
             <div class="ft-main-item">
                 <h2 class="ft-title">Stay Updated</h2>
-                <p class = "sub-text">Subscribe to our newsletter to get our latest news.</p>
+                <p class = "sub-text">Subscribe to our newsletter</p>
+                <p class = "sub-text">to get our latest news.</p>
                 <form>
                     <input type="email" name="email" placeholder="Enter email address">
                     <input type="submit" value="Subscribe">

@@ -31,5 +31,6 @@
     font-size: 1.2em;
 }
 .page:hover{
-    color: aqua;
+    color: aqua; 
+    /* ask about what colour to use on hover */
 }

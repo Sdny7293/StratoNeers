@@ -32,44 +32,73 @@ session_start();
                     <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">Sydney Fang</h2>
-                        <p class = "bio">My bio here</p>
+                        <span class = "dept">Software Engineer</span>
+                        <p class = "bio">Hi! My name is Sydney Fang and I am a 4th year student double majoring in Bio-Chemistry and Computer Science at UBC.</p>
                     </div>
                 </div>
                 <div class = "member">
-                    <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
+                    <img class = "img" src = "img/team/m1.png" alt = "Yosamin" style="width:100%">
                     <div class = "member-info">
-                        <h2 class = "name">Sydney Fang</h2>
-                        <p class = "bio">My bio here</p>
+                        <h2 class = "name">Yosamin Esanullah</h2>
+                        <p class = "bio">Bio here</p>
                     </div>
                 </div>
                 <div class = "member">
-                    <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
+                    <img class = "img" src = "img/team/m1.png" alt = "Brody" style="width:100%">
                     <div class = "member-info">
-                        <h2 class = "name">Sydney Fang</h2>
-                        <p class = "bio">My bio here</p>
+                        <h2 class = "name">Heanan-Brody Bird</h2>
+                        <p class = "bio">Bio here</p>
                     </div>
                 </div>
                 <div class = "member">
-                    <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
+                    <img class = "img" src = "img/team/m1.png" alt = "Abrar" style="width:100%">
                     <div class = "member-info">
-                        <h2 class = "name">Sydney Fang</h2>
-                        <p class = "bio">My bio here</p>
+                        <h2 class = "name">Abrar Mahir</h2>
+                        <p class = "bio">Bio here</p>
                     </div>
                 </div>
                 <div class = "member">
-                    <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
+                    <img class = "img" src = "img/team/m1.png" alt = "Iain" style="width:100%">
                     <div class = "member-info">
-                        <h2 class = "name">Sydney Fang</h2>
-                        <p class = "bio">My bio here</p>
+                        <h2 class = "name">Iain Reid</h2>
+                        <p class = "bio">Bio here</p>
                     </div>
                 </div>
                 <div class = "member">
-                    <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
+                    <img class = "img" src = "img/team/m1.png" alt = "Elana" style="width:100%">
                     <div class = "member-info">
-                        <h2 class = "name">Sydney Fang</h2>
-                        <p class = "bio">My bio here</p>
+                        <h2 class = "name">Elana Wood</h2>
+                        <p class = "bio">Bio here</p>
                     </div>
-                </div>                
+                </div>
+                <div class = "member">
+                    <img class = "img" src = "img/team/m1.png" alt = "James" style="width:100%">
+                    <div class = "member-info">
+                        <h2 class = "name">James Ropotar</h2>
+                        <p class = "bio">Bio here</p>
+                    </div>
+                </div>
+                <div class = "member">
+                    <img class = "img" src = "img/team/m1.png" alt = "Toney" style="width:100%">
+                    <div class = "member-info">
+                        <h2 class = "name">Toney Bedell</h2>
+                        <p class = "bio">Bio here</p>
+                    </div>
+                </div>
+                <div class = "member">
+                    <img class = "img" src = "img/team/m1.png" alt = "Rekha" style="width:100%">
+                    <div class = "member-info">
+                        <h2 class = "name">Rekha Marcus</h2>
+                        <p class = "bio">Bio here</p>
+                    </div>
+                </div>   
+                <div class = "member">
+                    <img class = "img" src = "img/team/m1.png" alt = "Alex" style="width:100%">
+                    <div class = "member-info">
+                        <h2 class = "name">Alex Rybka</h2>
+                        <p class = "bio">Bio here</p>
+                    </div>
+                </div>              
             <!-- </div> -->
         </div>
     </header>
