@@ -32,7 +32,7 @@ session_start();
                     <img class = "img" src = "img/team/m1.png" alt = "Sydney" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">Sydney Fang</h2>
-                        <span class = "dept">Software Engineer</span>
+                        <span class = "sw-eng">Software Engineer</span>
                         <p class = "bio">Hi! My name is Sydney Fang and I am a 4th year student double majoring in Bio-Chemistry and Computer Science at UBC.</p>
                     </div>
                 </div>
@@ -40,6 +40,7 @@ session_start();
                     <img class = "img" src = "img/team/m1.png" alt = "Yosamin" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">Yosamin Esanullah</h2>
+                        <span class = "hd-eng">Hardware Engineer</span>
                         <p class = "bio">Bio here</p>
                     </div>
                 </div>
@@ -47,7 +48,7 @@ session_start();
                     <img class = "img" src = "img/team/brody.png" alt = "Brody" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">Heanan-Brody Bird</h2>
-                        <span class = "dept">Hardware Engineer</span>
+                        <span class = "hd-eng">Hardware Engineer</span>
                         <p class = "bio">Brody Bird is our Hardware Engineer, specializing in transistor acquisition and specifications. He is responsible for the manufacturing development and implementation of specialized memory units in apparatus development.</p>
                     </div>
                 </div>
@@ -55,6 +56,7 @@ session_start();
                     <img class = "img" src = "img/team/m1.png" alt = "Abrar" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">Abrar Mahir</h2>
+                        <span class = "hd-eng">Hardware Engineer</span>
                         <p class = "bio">Bio here</p>
                     </div>
                 </div>
@@ -62,6 +64,7 @@ session_start();
                     <img class = "img" src = "img/team/m1.png" alt = "Iain" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">Iain Reid</h2>
+                        <span class = "hd-eng">Hardware Engineer</span>
                         <p class = "bio">Bio here</p>
                     </div>
                 </div>
@@ -69,6 +72,7 @@ session_start();
                     <img class = "img" src = "img/team/m1.png" alt = "Elana" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">Elana Wood</h2>
+                        <span class = "hd-eng">Hardware Engineer</span>
                         <p class = "bio">Bio here</p>
                     </div>
                 </div>
@@ -76,13 +80,15 @@ session_start();
                     <img class = "img" src = "img/team/james.png" alt = "James" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">James Ropotar</h2>
-                        <p class = "bio">Bio here</p>
+                        <span class = "hd-eng">Hardware Engineer</span>
+                        <p class = "bio">James Ropotar is one of our Hardware Engineers, specialising in aiding in assembly and finalising design. He has long had a passion for computer systems, building several computers over the years.</p>
                     </div>
                 </div>
                 <div class = "member">
                     <img class = "img" src = "img/team/m1.png" alt = "Toney" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">Toney Bedell</h2>
+                        <span class = "or-lead">Outreach Lead</span>
                         <p class = "bio">Bio here</p>
                     </div>
                 </div>
@@ -90,6 +96,7 @@ session_start();
                     <img class = "img" src = "img/team/m1.png" alt = "Rekha" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">Rekha Marcus</h2>
+                        <span class = "or-lead">Outreach Lead</span>
                         <p class = "bio">Bio here</p>
                     </div>
                 </div>   
@@ -97,6 +104,7 @@ session_start();
                     <img class = "img" src = "img/team/m1.png" alt = "Alex" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">Alex Rybka</h2>
+                        <span class = "hd-eng"></span>
                         <p class = "bio">Bio here</p>
                     </div>
                 </div>              
