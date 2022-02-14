@@ -44,10 +44,11 @@ session_start();
                     </div>
                 </div>
                 <div class = "member">
-                    <img class = "img" src = "img/team/m1.png" alt = "Brody" style="width:100%">
+                    <img class = "img" src = "img/team/brody.png" alt = "Brody" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">Heanan-Brody Bird</h2>
-                        <p class = "bio">Bio here</p>
+                        <span class = "dept">Hardware Engineer</span>
+                        <p class = "bio">Brody Bird is our Hardware Engineer, specializing in transistor acquisition and specifications. He is responsible for the manufacturing development and implementation of specialized memory units in apparatus development.</p>
                     </div>
                 </div>
                 <div class = "member">
@@ -72,7 +73,7 @@ session_start();
                     </div>
                 </div>
                 <div class = "member">
-                    <img class = "img" src = "img/team/m1.png" alt = "James" style="width:100%">
+                    <img class = "img" src = "img/team/james.png" alt = "James" style="width:100%">
                     <div class = "member-info">
                         <h2 class = "name">James Ropotar</h2>
                         <p class = "bio">Bio here</p>

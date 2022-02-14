@@ -35,12 +35,6 @@ body{
     /* margin-bottom: 3em; */
     padding: 2em 0em 0em 0em;
 }
-/* .team{ */
-    /* font-family: 'Courier New', Courier, monospace;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly; */
-/* } */
 .member{
     width: 30%;
     margin: 0em 0em 2em 0em;
@@ -61,6 +55,7 @@ body{
 .img{
     display: block;
     border-radius: 1em 1em 0em 0em;
+    height: 20em;
 }
 .dept{
     background-color: rgb(255, 255, 182);
