@@ -40,8 +40,8 @@
             </div>
         </section>
         <section class="ft-legal">
-        <ul class="ft-legal-list">
-          <li>&copy; 2022 Copyright StratoNeers | Developed by Sydney Fang</li>
+        <ul class="ft-legal-list mb-0">
+          <li>&copy; 2022 Copyright StratoNeers | Developed by Sydney Tzu-Jung Fang</li>
         </ul>
       </section>
     </footer>
