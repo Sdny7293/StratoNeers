@@ -1,11 +1,4 @@
-#main-title{
-    color: white;
-    font-size: 3em;
-    text-align: center;
-    font-family: 'Arvo', serif;
-    margin: 1em 0em;
-}
-.main-container{
+.info-block{
     margin: auto;
     background-color: rgba(255, 255, 255, 0.644);
     width: 80%;

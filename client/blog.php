@@ -8,10 +8,12 @@ session_start();
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>Mission</title>
-    <link rel="stylesheet" href="./css/blog.css"/>
-    <link rel="stylesheet" href="./css/theme.css"/>
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/blog.css"/>
+    <link rel="stylesheet" href="../css/theme.css"/>
     <!-- Nav bar css-->
-    <link rel="stylesheet" href="./css/navBar.css"/>
+    <link rel="stylesheet" href="../css/navBar.css"/>
     <!-- Nav bar arrow font -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Font style from https://fonts.google.com/specimen/Arvo?thickness=7&width=8&preview.text=COMING&preview.text_type=custom#standard-styles-->
@@ -25,8 +27,8 @@ session_start();
             <?php include 'navBar.php'?>
         </nav>
         <br><br><br>
-        <h1 id = "main-title">Blog</h1>
-        <p id="title-desc">Take a look at our progress</p>
+        <h1 class = "page-title">Blog</h1>
+        <p class = "title-desc">Take a look at our progress</p>
         <div class = "main-container">
             <div class = "content">
                 <h2 class = "block-title">Place holder</h2>

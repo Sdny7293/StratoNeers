@@ -1,7 +1,7 @@
 <ul>
     <!-- Logo -->
     <div class=topnav>
-        <img class = "logo" src="./img/logo.png" alt="logo"/>
+        <img class = "logo" src="../img/logo.png" alt="logo"/>
         <div class = "centerNav">
             <!-- . takes to current location, .. takes to parents (goes up one directory) -->
             <li class = "nav-list"><a class = "page"<?php if(basename($_SERVER["SCRIPT_FILENAME"], '.php') == 'home'){ echo "class='active'"; }?>href="home.php">Home</a></li>        
